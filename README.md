@@ -1,6 +1,11 @@
 cvshapeinverter
 ===============
 
+This is the Chad Vernon script only update to "python 3" 
+can be used in maya 2022 and 2022.5
+https://github.com/chadmv
+
+
 Note that starting in Maya 2016.5, Maya now ships with the invertShape command built in so there isn't really need for cvshapeinverter.
 
 ```
